@@ -2,7 +2,7 @@
 
 写于2024/8/1 早 有关于线程间同步与线程间通信，大部分都是从官方文档上摘下来的。。。
 
-![图片](C:\Users\12094\Desktop\IPC学习总结\assets\图片.png)
+![图片](./assets/图片.png)
 
 进程间通信（IPC，InterProcess Communication)是指在不同进程之间传播或交换信息。
 
